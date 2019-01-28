@@ -56,7 +56,7 @@ void loop() {
       }
     }
     else {
-      delay(1000);
+      delay(1);
       startup_delay = false;
     }
   }
